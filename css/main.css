@@ -15,6 +15,8 @@ p::first-letter {
   color: #ffabab;
   font-weight: bold;
   font-size: 64px;
+  float: left;
+  margin-top: -20px;
 }
 
 @supports (initial-letter: 4) or (-webkit-initial-letter: 4) {
