@@ -1,0 +1,12 @@
+header {
+  display: flex;
+  min-height: 500px;
+  height: 100vh;
+  background-image: url(../images/350x150.png);
+  background-size: cover;
+  color: #fff;
+}
+
+h1 {
+  margin: auto;
+}
