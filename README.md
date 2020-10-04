@@ -1,2 +1,2 @@
-# Resilient-CSS-
+# Resilient-CSS
 Deliver the best UX to all browsers
