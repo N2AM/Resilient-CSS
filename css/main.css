@@ -10,7 +10,16 @@ header {
 h1 {
   margin: auto;
 }
+#o {
+  color: yellow;
+}
 
+p {
+  color: blue;
+}
+.og {
+  color: green;
+}
 p::first-letter {
   color: #ffabab;
   font-weight: bold;
